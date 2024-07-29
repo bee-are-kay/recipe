@@ -6,3 +6,7 @@ I love pizza.
 last line changed locally
 ### This is a REMOTE change
 
+
+
+# this is a level 1 heading
+### this is a level 3 heading
