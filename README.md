@@ -6,3 +6,14 @@ I love pizza.
 last line changed locally
 ### This is a REMOTE change
 
+
+
+# this is a level 1 heading
+### this is a level 3 heading
+1. item 1 could be anything
+2. item 2 could be any other thing
+3. item 3 could be any other thing besides 1 and 2
+
+**Some sentences could be bold**
+
+![title](./recipe.png)
