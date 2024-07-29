@@ -15,3 +15,5 @@ last line changed locally
 3. item 3 could be any other thing besides 1 and 2
 
 **Some sentences could be bold**
+
+![title](./recipe.png)
